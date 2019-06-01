@@ -1,0 +1,2 @@
+# BERNICE
+NQU-CSIE專題 CPR教學輔具-幼兒版
